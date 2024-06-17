@@ -1,0 +1,25 @@
+This dataset contains information about used cars.
+This data can be used for a lot of purposes such as Used Car Price Prediction using different Machine Learning Techniques.
+
+Data Description (Feature Information)
+
+car_name: Car's Full name, which includes brand and specific model name.
+brand: Brand Name of the particular car.
+model: Exact model name of the car of a particular brand.
+seller_type: Which Type of seller is selling the used car
+fuel_type: Fuel used in the used car, which was put up on sale.
+transmission_type: Transmission used in the used car, which was put on sale.
+vehicle_age: The count of years since car was bought.
+mileage: It is the number of kilometer the car runs per litre.
+engine: It is the engine capacity in cc(cubic centimeters)
+max_power: Max power it produces in BHP.
+seats: Total number of seats in car.
+selling_price: The sale price which was put up on website.
+Coding file :- https://colab.research.google.com/drive/1kkGrAdBf6-cLGuQJR3bcofRnGFHBrnbz?usp=drive_link
+Data File : - https://drive.google.com/file/d/10g5G-mf-3mdWcKqMVCA8zTuJcjplFcjo/view?usp=drive_link
+
+This Project i have work on data with exploratory data anlysis with visualization.
+I have also focused on knowing the top performer.
+
+With EDA Project u can find i have deeply for knowing inside of data for desire output.
+And we got that by knowing which Brand, Fuel type, transimission type has maximum sales 
