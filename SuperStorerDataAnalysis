@@ -1,0 +1,28 @@
+Super Store Sales dataset is e commerce data.
+It is a big dataset about 5900 Orders
+This data contains below description
+Order ID             5901 non-null   object 
+ 2   Order Date           5901 non-null   object 
+ 3   Ship Date            5901 non-null   object 
+ 4   Ship Mode            5901 non-null   object 
+ 5   Customer ID          5901 non-null   object 
+ 6   Customer Name        5901 non-null   object 
+ 7   Segment              5901 non-null   object 
+ 8   Country              5901 non-null   object 
+ 9   City                 5901 non-null   object 
+ 10  State                5901 non-null   object 
+ 11  Region               5901 non-null   object 
+ 12  Product ID           5901 non-null   object 
+ 13  Category             5901 non-null   object 
+ 14  Sub-Category         5901 non-null   object 
+ 15  Product Name         5901 non-null   object 
+ 16  Sales                5901 non-null   float64
+ 17  Quantity             5901 non-null   int64  
+ 18  Profit               5901 non-null   float64
+ 19  Returns              287 non-null    float64
+ 20  Payment Mode         5901 non-null   object 
+ 21  ind1                 0 non-null      float64
+ 22  ind2               0 non-null      float64
+
+All Analysis is attached please persue the file and link below shared 
+https://colab.research.google.com/drive/1gj-2lTYlz3BGIzGmbY-Hd19DmLNCX2d1?usp=sharing
