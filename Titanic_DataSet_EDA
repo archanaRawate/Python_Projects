@@ -1,0 +1,28 @@
+Data file for Titanic dataset:- "/content/titanic_train.csv"
+google drive link for dataset train :-https://drive.google.com/file/d/1Fqw35EWPEolnyIGkgpXD5m6fLWuturuD/view?usp=drive_link
+google drive link for dataset test :- https://drive.google.com/file/d/17tzDXxnKQb5IILz5MBdI9Ew9rkRHJRWq/view?usp=drive_link
+Go to https://www.kaggle.com/c/titanic/data
+If you scroll down the page a bit, you'll see a data dictionary explaining each of the columns. Take a minute to familiarize yourself with how the csv is structured.
+Download the train.csv file into this lab folder.
+Create an iPython notebook and load the csv into pandas
+clean and modify data as requitred
+Feature extraction
+Exploratory data analysis
+df.groupby() may be very useful.
+
+What was the survival rate overall?
+Which gender fared the worst? What was their survival rate?
+What was the survival rate for each Pclass?
+Did any reverends survive? How many?
+What is the survival rate for cabins marked ¯\(ツ)/¯
+What is the survival rate for people whose Age is empty?
+What is the survival rate for each port of embarkation?
+What is the survival rate for children (under 12) in each Pclass?
+Did the captain of the ship survive? Is he on the list?
+Of all the people that died, who had the most expensive ticket? How much did it cost?
+Does having family on the boat help or hurt your chances of survival?
+Plotting
+Using Matplotlib and Seaborn, create several charts showing the survival rates of 
+different groups of people. It's fine if a handful of charts are basic 
+(Gender, Age, etc), but what we're really looking for is something beneath the surface.
+
