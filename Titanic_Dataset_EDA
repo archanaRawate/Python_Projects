@@ -1,0 +1,12 @@
+The Titanic dataset contains information about 891 passengers. 
+Three embarked passengers boarded from three ports. The age for 177 passengers is missing.
+There are four categorical columns and eight numerical columns. 
+I drop the columns for Passenger ID, Name, and Ticket.
+
+Next, I have categorize and count survival rates by passenger class and gender. 
+I Have create a graph to illustrate survival rates by class and gender.
+The countplots for survival indicate that a value of 0 represents deceased passengers, 
+while a value of 1 represents survived passengers. I also analyze survival rates by class.
+
+From our findings, we can conclude that the survival rate for women is greater than that for men. 
+Additionally, the data suggests that the age group of 12 to 45 years had a higher survival rate.
